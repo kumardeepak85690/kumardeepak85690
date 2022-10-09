@@ -21,7 +21,6 @@
 <a href="https://www.hackerearth.com/@deepak4577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Deepak_Kumar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dk705437/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dk705437/profile" height="30" width="40" /></a>
 
-<a href="https://discord.gg/Deepak_Kumar_UptownFunks_97#4931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deepak_Kumar_UptownFunks_97#4931" height="30" width="40" /></a>
 
 </p>
 
