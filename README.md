@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">"First, solve the problem. Then, write the code."</h3>
-<img align="right" alt="Coding" width="300" hight="300" src="https://media.tenor.com/5nT1Wf8unioAAAAj/penguin-self-care.gif">
+<img align="right" alt="Coding" width="300" hight="300" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 
 <p align="left"> <a href="[https://twitter.com/DeepakK12286986" target="blank"><img src="https://img.shields.io/twitter/follow/Deepak_Kumar?logo=twitter&style=for-the-badge" alt="Deepak_Kumar" /></a> </p>
 
