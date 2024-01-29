@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">"First, solve the problem. Then, write the code."</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/lXHwJv89PvdN200Anr/200.webp?cid=790b7611f6vurl5zdlf4vn16rb0rzhviytyzql4bnusznmm5&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 
 <p align="left"> <a href="[https://twitter.com/DeepakK12286986" target="blank"><img src="https://img.shields.io/twitter/follow/Deepak_Kumar?logo=twitter&style=for-the-badge" alt="Deepak_Kumar" /></a> </p>
