@@ -2,9 +2,7 @@
 <h3 align="center">"First, solve the problem. Then, write the code."</h3>
 <img align="right" alt="Coding" width="280" hight="280" src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.webp?cid=ecf05e47qn2kc5aqts3f93x58baoscyu8uc5x3tmz09zdpzi&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
-<p align="left"> <a href="https://deepak-kumar.vercel.app/" target="blank"><img alt="https://deepak-kumar.vercel.app/" src="https://img.shields.io/badge/Deepak_Kumar-blue">
-
-</a> </p>
+<p align="left"> <a href="https://deepak-kumar.vercel.app/" target="blank"><img alt="https://deepak-kumar.vercel.app/" src="https://img.shields.io/badge/Portfolio-blue"></a> </p>
 
 - 📫 How to reach me **dk705437@gmail.com **
 
