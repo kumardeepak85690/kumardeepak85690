@@ -12,9 +12,12 @@
 
 <br/>
 
-<table>
+<div align="center">
+
+<table width="1000">
 <tr>
-<td width="55%" valign="top">
+
+<td width="55%" valign="top" align="left">
 
 ### 👨‍💻 About Me
 
@@ -28,11 +31,14 @@
 
 <td width="45%" align="center">
 
-<img src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.webp" width="300"/>
+<img src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.webp" width="240"/>
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 <br/>
 
