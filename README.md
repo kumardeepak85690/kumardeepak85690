@@ -109,7 +109,7 @@ I build cross-platform mobile apps for Android & iOS.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,reactivex,js,html,css,cpp,mongodb,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,mongodb,nodejs,express" />
 
 </div>
 
