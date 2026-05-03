@@ -26,7 +26,7 @@
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
 <img src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.webp" width="260"/>
 
@@ -109,7 +109,7 @@ I build cross-platform mobile apps for Android & iOS.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,html,css,cpp,mongodb,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,reactivex,js,html,css,cpp,mongodb,nodejs,express" />
 
 </div>
 
