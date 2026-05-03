@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<table width="1000">
+<table width="1200">
 <tr>
 
 <td width="55%" valign="top" align="left">
